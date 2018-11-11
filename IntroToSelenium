@@ -1,0 +1,70 @@
+Web scraping: 
+        webscraper-seleniumhq/selenium_scraper.py
+      
+
+
+
+What is Selenium?
+-Selenium is framework which holds the numerous class of functions and libraries
+-It is a container having numerous functions.
+-It is set of the tools and libraries  to interact with the browser to perform webbrowser actions.
+
+Identify Web elements using identifiers
+Add Actions in preferred languagewith test data.
+Run test and validate
+
+Selenium is free and Open Source.
+Selenium is not a tool but set of libraries.
+Widely used soluton for automating Web application
+
+2.Features of Selenium:
+-Flexible and Extensible
+-Supports Multiple Language.
+-Supports Multiple Browser Platform
+-Supports third party plugins and extensibility.
+
+3.Components of Selenium: Jason Huggins,Simon Stewart,Patrick.
+-Selenium IDE: Add-on for Firefox and used for record-playback for Firefox. Ex:Prototype Testing.
+-Selenium RC[Selenium1]: Remote Control and used to execute Javascript..Deprecated right now
+-Selenium Webdriver: Most actively used 
+-Selenium Grid: Run test parallely across different machines and browsers 
+
+
+Selenium Rc and Webdriver merged to form Selenium2.
+All the Rc is replaced with webdriver coaptible component.
+
+
+4.Browsers supported by Selenium:
+-Supports all major browsers.
+-Chrome,Firefox,IE,Safari,Opera.
+
+5.OS Support:
+-Supports all major OS.
+-Windows,MAC,Linux,Oracle.
+
+6.Language Support: Java , Python , Ruby , C# , Php and Perl so on.
+
+Helpful Tips:Check the releases and new features always.
+
+Birth of Selenium:
+-Jason Huggins(Thoughtworks)-First he named as 'Javascript TestRunner'.
+-Shinya developed Selenium IDE.
+-Cons-'Same Domain Policy': A javascript cannot access different doamin.
+-Ex: A javascript in google .com can access only HTML pages within that domain,cannot access Yahoo.com javascripts.
+-To overcome this Paul Hammant created a proxy server to trick the javascript from different domain called Selenium RC.
+-2004 Selenium was made Open Source.
+-Simon Stewart overcome the limitations of Selenium1 which always requires a server.
+-Phillipe Hanrigou released Selenium Grid which extends Selenium RC.
+
+
+Selenium 1.0 : Selenium RC
+Selenium 2.0 : All projects of Selenium RC + Webdriver
+Selenium 3.0 : Core of RC replaced RC compatible components of webdriver.
+Selenium 4.0 : Selenium Webdriver + W3C Webdriver.[Upcoming]
+Selenium 5.0 : W3C Webdriver [Upcoming].
+
+
+
+
+
+
